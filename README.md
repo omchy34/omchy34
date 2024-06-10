@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Om Choudhary</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, This is Om Choudhary</h1>
 <h3 align="center">🎓 1st-year B.Tech student at Sanaka Educational Trust's Group of Institutions, passionate about web development and continuously learning new technologies.</h3>
 
 - 🔭 I’m currently working on [E-com-BookStore](https://omchy34.github.io/E-com-Book-website/)
