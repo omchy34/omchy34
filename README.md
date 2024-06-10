@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Dark%20Skin%20Tone.png" alt="Call Me Hand Dark Skin Tone" width="25" height="25" /> I'm Om Choudhary</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Anatomical%20Heart.png" alt="Anatomical Heart" width="25" height="25" />
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **Express js MongooseDB**
