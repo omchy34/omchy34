@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-com-BookStore](https://omchy34.github.io/E-com-Book-website/)
 
-- 🌱 I’m currently learning **Express js MongooseDB**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="35" height="35" /> I’m currently learning **Express js MongooseDB**
 
 - 💬 Ask me about **React , JavaScript**
 
