@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React , JavaScript**
 
-- 📫 How to reach me **omchy34@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **omchy34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
