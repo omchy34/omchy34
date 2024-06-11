@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, This is Om Choudhary</h1>
 <h3 align="center">🎓 1st-year B.Tech student at Sanaka Educational Trust's Group of Institutions, passionate about web development and continuously learning new technologies.</h3>
 
-- 🔭 I’m currently working on [E-com-BookStore](https://omchy34.github.io/E-com-Book-website/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> I’m currently working on [E-com-BookStore](https://omchy34.github.io/E-com-Book-website/)
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> I’m currently learning **Express js MongooseDB**
 
 - 💬 Ask me about **React , JavaScript**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> How to reach me **omchy34@gmail.com**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> How to reach me **omchy34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
