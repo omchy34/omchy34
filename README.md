@@ -1,21 +1,118 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35" height="35" />, This is Om Choudhary</h1>
-<h3 align="center">🎓 1st-year B.Tech student at Sanaka Educational Trust's Group of Institutions, passionate about web development and continuously learning new technologies.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Choudhary+%F0%9F%91%8B;Full+Stack+Web+Developer;Always+building%2C+always+learning." alt="Typing SVG" />
+</h1>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> I’m currently working on [E-com-BookStore](https://omchy34.github.io/E-com-Book-website/)
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> I’m currently learning **Express js MongooseDB**
-
-- 💬 Ask me about **React , JavaScript**
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> How to reach me **omchy34@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/om-choudhary-46b635233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/om-choudhary-46b635233/" height="30" width="40" /></a>
-<a href="https://instagram.com/omchy34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omchy34" height="30" width="40" /></a>
+<p align="center">
+  <em>🎓 B.Tech Student · 4th Semester · Sanaka Educational Trust's Group of Institutions</em><br/>
+  <em>Building scalable web apps with modern full-stack technologies</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-choudhary-46b635233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/omchy34" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:omchy34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://omchy34.github.io/E-com-Book-website/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Project-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Project"/>
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
+
+```ts
+const om = {
+  name:       "Om Choudhary",
+  role:       "Full Stack Web Developer",
+  education:  "B.Tech, 4th Semester",
+  location:   "West Bengal, India 🇮🇳",
+  focus:      ["Web Development", "Backend APIs", "Cloud & DevOps"],
+  askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "Supabase"],
+  email:      "omchy34@gmail.com",
+  currentlyLearning: ["Docker", "Supabase", "System Design"],
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+### Cloud, Media & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ImageKit-FF6B6B?style=flat-square&logo=imagekit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omchy34&show_icons=true&theme=default&border_color=e5e7eb&title_color=3B82F6&icon_color=3B82F6&text_color=374151&bg_color=ffffff&hide_border=false" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchy34&layout=compact&theme=default&border_color=e5e7eb&title_color=3B82F6&text_color=374151&bg_color=ffffff" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omchy34&theme=default&border=e5e7eb&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🚀 Featured Project
+
+| Project | Description | Tech | Live |
+|--------|-------------|------|------|
+| [E-com BookStore](https://github.com/omchy34/E-com-Book-website) | A fully functional e-commerce bookstore with product listings, cart, and checkout flow | HTML · CSS · JS | [🔗 View Live](https://omchy34.github.io/E-com-Book-website/) |
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  Whether it's a collaboration, project idea, or just a hello — my inbox is always open.<br/><br/>
+  <a href="mailto:omchy34@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omchy34&style=flat-square&color=3B82F6&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center"><em>"First, solve the problem. Then, write the code." — John Johnson</em></p>
