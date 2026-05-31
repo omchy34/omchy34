@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Choudhary+%F0%9F%91%8B;Full+Stack+Web+Developer;Always+building%2C+always+learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Om+Choudhary+%F0%9F%91%8B;Always+building%2C+always+learning." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -29,10 +29,9 @@
 ```ts
 const om = {
   name:       "Om Choudhary",
-  role:       "Full Stack Web Developer",
   education:  "B.Tech, 4th Semester",
   location:   "West Bengal, India 🇮🇳",
-  focus:      ["Web Development", "Backend APIs", "Cloud & DevOps"],
+  focus:      ["Web Development", "Backend APIs", "Cloud & Media"],
   askMeAbout: ["React", "Next.js", "Node.js", "MongoDB", "Supabase"],
   email:      "omchy34@gmail.com",
   currentlyLearning: ["Docker", "Supabase", "System Design"],
@@ -61,14 +60,6 @@ const om = {
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
-### Cloud, Media & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ImageKit-FF6B6B?style=flat-square&logo=imagekit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-
 ### Tools & Workflow
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -92,13 +83,6 @@ const om = {
 
 ---
 
-## 🚀 Featured Project
-
-| Project | Description | Tech | Live |
-|--------|-------------|------|------|
-| [E-com BookStore](https://github.com/omchy34/E-com-Book-website) | A fully functional e-commerce bookstore with product listings, cart, and checkout flow | HTML · CSS · JS | [🔗 View Live](https://omchy34.github.io/E-com-Book-website/) |
-
----
 
 ## 📫 Get in Touch
 
